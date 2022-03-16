@@ -1,0 +1,16 @@
+html {
+  box-sizing: border-box;
+  line-height: 1.3;
+  margin:
+  border: 2px;
+  padding:inherit;
+  font-family: "Crimson Text", regular;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+header > p {
+  font-style: italic;
+}
